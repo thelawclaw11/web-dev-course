@@ -1,0 +1,64 @@
+#login_button{
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.navbar-brand{
+    font-size: 1.8em;
+}
+#nav_links a:hover{
+    background-color: #e7e7e7;
+}
+#topContainer{
+    background-image: url("background2.jpe");
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+.navbar{
+    margin-bottom: 0px;
+}
+
+.jumbotron{
+    margin-bottom: 0px;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+.boxes{
+    background-color: #eee;
+    border-radius: 15px;
+    height: 480px;
+}
+.content{
+    margin-top: 10px;
+
+}
+.content {
+    font-size: 1.7em;
+}
+#footer{
+    background-color: #eee;
+    height: 90px;
+    position: relative;
+}
+
+#footerText{
+    padding-top: 20px;
+}
+
+#copywrite{
+    text-transform: capitalize;
+    font-size: .85em;
+
+}
+#miniBar p{
+    color: #777;
+
+}
+#miniBar a{
+    color: #777;
+    text-decoration: underline;
+
+}
+#miniBar a:hover{
+    text-decoration: none;
+}
